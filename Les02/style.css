@@ -1,0 +1,26 @@
+.header {
+    color: blue;
+    font-size: x-large;
+}
+body {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+#mijnButton {
+    display: flex;
+    margin-top: 10px;
+}
+
+#getal1 {
+    /* display: flex; */
+    margin-top: 10px;
+    margin-top: 10px;
+}
+
+#getal2 {
+    margin-top: 10px;
+    /* display: flex; */
+}
+
